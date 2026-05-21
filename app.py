@@ -1,7 +1,3 @@
-# ============================================================
-# FILE: app.py
-# ============================================================
-
 import streamlit as st
 from analysis_engine import ShotData, ShotAnalysis
 
@@ -19,6 +15,7 @@ st.set_page_config(
 # ============================================================
 
 st.title("🏌️ ZDJ Golf Shot Analyzer 🏌️")
+st.markdown("---")
 
 # ============================================================
 # INPUT SECTION
