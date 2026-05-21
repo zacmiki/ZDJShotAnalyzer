@@ -18,7 +18,7 @@ st.set_page_config(
 # TITLE
 # ============================================================
 
-st.title("🏌️ Golf Shot Analyzer")
+st.title("🏌️ ZDJ Golf Shot Analyzer 🏌️")
 
 # ============================================================
 # INPUT SECTION
